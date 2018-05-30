@@ -1,0 +1,27 @@
+body{
+    display: flex;
+    justify-content: center;
+    background-color: #EEE;
+    color: #222;
+}
+
+#title{
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+#projectsList{
+    display: flex;
+    padding-left: 0;
+    justify-content: center;
+}
+
+#projectsList li{
+    list-style-type: none;
+    padding-left: 0;
+    margin-left: 0;
+}
+#projectsList li a{
+    text-decoration: none;
+    font-size: 1.5rem;
+}
