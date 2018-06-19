@@ -17,6 +17,7 @@ body{
 }
 #img-div img{
     max-width: 100%;
+    display: block;
     height:auto;
     margin: 0;
     padding: 0;
