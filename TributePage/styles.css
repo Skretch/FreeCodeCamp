@@ -16,7 +16,7 @@ body{
     width: 100%;
 }
 #img-div img{
-    width: 100%;
+    max-width: 100%;
     height:auto;
     margin: 0;
     padding: 0;
